@@ -20,7 +20,7 @@ frozenlist==1.4.0
     # via
     #   aiohttp
     #   aiosignal
-idna==2.9
+idna==3.7
     # via yarl
 multidict==4.7.5
     # via
